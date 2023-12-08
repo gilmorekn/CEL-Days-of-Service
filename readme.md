@@ -12,4 +12,4 @@ Feature functions include a visually appealing webmap with text box colors refle
 
 
 ### Data Sources
-A geoJson file was created by geojson.io using Day of Service data obtained from the CEL office. Var Stadia_AlidadeSmooth basemap was applied from Leaflet Providers. Hex codes were referenced from the CEL branding kit created by Amanda McQuade (2022). 
+A geoJson file was created by geojson.io using Day of Service data obtained from the CEL office. Light_all basemap was applied from Leaflet Providers. Hex codes were referenced from the CEL branding kit created by Amanda McQuade (2022). 
